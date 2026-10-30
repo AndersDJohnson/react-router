@@ -24,7 +24,7 @@
     "html-loader": "^0.4.3",
     "html-webpack-plugin": "^2.22.0",
     "jsxstyle": "^1.0.1",
-    "markdown-it": "^7.0.0",
+    "markdown-it": "^15.0.3",
     "markdown-it-anchor": "^3.0.0",
     "postcss-loader": "0.9.1",
     "prismjs-loader": "0.0.3",
